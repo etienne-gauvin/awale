@@ -1,0 +1,9 @@
+)]}
+{
+ "version": 3,
+ "sources": "E:\\_g\\public\\js\\game\\player.es6",
+ "file": "E:\\_g\\public\\js\\game\\player.js",
+ "sourceRoot": "",
+ "names": [],
+ "mappings": ";;;;AAAA,IAAI,CAAC,MAAM,GAAG,CAAE,UAAW,MAAM,EAAG;AAClC,cAAY,CAAC;;AAEb,MAAI,aAAa,GAAG,CAAC,CAAC;;AAEtB,SAEa,SAFA,MAAM,CAEJ,KAAK,EAAG;0BAFV,MAAM;;AAIf,QAAI,CAAC,EAAE,GAAG,aAAa,EAAE,CAAC;AAC1B,QAAI,CAAC,KAAK,GAAG,KAAK,CAAC;GAEpB,CAEF;CACF,CAAA,CAAK,MAAM,CAAE,CAAC"
+}
